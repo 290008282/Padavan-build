@@ -128,5 +128,5 @@ jobs:
       uses: actions/upload-artifact@master
       if: always()
       with:
-        name: K2P-USB
+        name: NEWIFI
         path: /opt/images
